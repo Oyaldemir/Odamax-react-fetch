@@ -1,24 +1,12 @@
 {
   "reservationCode": "4f345345fdd234523",
-  "isLogin" : "true",
-  "loginInfo" : {
-    "userName" : "Emrah Tavşancı",
-    "userId" : "ad323423",
-    "kvkk" : "true"
+  "loginInfo": {
+    "userName": "Emrah Tavşancı",
+    "userId": "ad323423",
+    "kvkk": "true"
   },
-  "paymentTypes" : [{
-    "paymentTypeName" : "paynow",
-    "discountPrice" : "1.300,00",
-    "discountRate" : "5",
-    "price" : "900,00",
-    "currency" : "TL"
-   },
-   {
-    "paymentTypeName" : "at_hotel",
-    "discountRate" : "5",
-    "discountPrice" : "1.300,00",
-    "price" : "900,00",
-    "currency" : "TL"
-   }
+  "paymentTypes": [
+    {"paymentTypeName": "paynow", "discountPrice": "1.300,00", "discountRate": "5", "price": "900,00", "currency": "TL"},
+    {"paymentTypeName": "paynow", "discountPrice": "1.300,00", "discountRate": "5", "price": "900,00", "currency": "TL"}
   ]
 }
